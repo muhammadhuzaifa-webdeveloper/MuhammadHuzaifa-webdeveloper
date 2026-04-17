@@ -14,12 +14,12 @@
   
 - 🤝 I’m looking for help with Sir Umair
   
-- 👨‍💻 All of my projects are available at github.com/muhammadhuzaifa1019
+- 👨‍💻 All of my projects are available at https://github.com/muhammadhuzaifa-webdeveloper
   
 - 📫 How to reach me: **muhammadhuzaifa22056@gmail.com**
   
 - ⚡ Fun fact: I love Coding 😎
-- Portfolio link :https://muhammadhuzaifa1019.github.io/Portfolio/
+- Portfolio link :https://muhammadhuzaifa-webdeveloper.github.io/Portfolio/
 ---
 
 ### 🛠️ Languages and Tools
