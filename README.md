@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000248071fa8120001de65adc1b&ts=494014&p=fs&cid=1&sig=9dae65a83f1091e5ce80824bbd4e312259a22a6cd98dfdbea079458c5ae4a60e&v=0" width="800" style="border-radius: 50px;" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29kaW5nJTIwaW1hZ2V8ZW58MHx8MHx8fDA%3D" width="800" style="border-radius: 50px;" />
 </p>
 
 ---
