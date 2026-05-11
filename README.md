@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan 🇵🇰</h3>
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29kaW5nJTIwaW1hZ2V8ZW58MHx8MHx8fDA%3D" width="800" style="border-radius: 50px;" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29kaW5nJTIwaW1hZ2V8ZW58MHx8MHx8fDA%3D" width="500" style="border-radius: 50px;" />
 </p>
 
 ---
