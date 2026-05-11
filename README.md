@@ -19,7 +19,8 @@
 - 📫 How to reach me: **muhammadhuzaifa22056@gmail.com**
   
 - ⚡ Fun fact: I love Coding 😎
-- Portfolio link :https://muhammadhuzaifaportfolio0vhs900.netlify.app/
+- Portfolio link :https://huzaifaportfolio-sa-shvs.netlify.app/
+
 ---
 
 ### 🛠️ Languages and Tools
